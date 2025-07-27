@@ -10,7 +10,7 @@
 A stunning, interactive portfolio website showcasing my skills as a MERN Stack Developer. Built with modern web technologies and featuring a captivating dark theme with neon cyberpunk aesthetics.
 
 ### ✨ Live Demo
-[View Live Portfolio](your-portfolio-url-here)
+[View Live Portfolio]([your-portfolio-url-here](https://dhimanharsh.github.io/resume.harsh/))
 
 ---
 
